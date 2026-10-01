@@ -4,11 +4,10 @@ ServiceNow System Administrator capstone project for Naan Mudhalvan (SmartBridge
 
 ## Team
 
-- Arockia Rajamanickam (Team Lead)
-- John Richardson Dyriaraj C
-- Saravana Kumar S
-- Balaji S
-- Geethesh B S
+- Niranjan S R (Team Lead)
+- Pavithran P R
+- Srinivas S M
+- Sriram S
 
 ## Project summary
 
