@@ -35,7 +35,7 @@ The result was verified by impersonation. EEE User sees only the two EEE records
 
 - `scripts/` holds the five background scripts used to build the roles, table, fields, records and ACL configuration, plus the standalone read ACL script.
 - `screenshots/` holds the proof screenshots captured from the instance, one set per milestone.
-- `demo/demo.mp4` is a narrated walkthrough of the finished project.
+- `demo/Video Project 1.mp4` is a narrated walkthrough of the finished project.
 - `docs/BUILD_FACTS.md` is the ground truth record for every object and sys_id used in the build.
 
 ## How to reproduce
